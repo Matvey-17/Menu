@@ -1,0 +1,7 @@
+.env
+.venv
+db.sqlite3
+*.pyc
+.DS_Store
+__pycache__/
+**/migrations/*
